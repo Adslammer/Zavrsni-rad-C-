@@ -1,0 +1,3 @@
+Put kroz mrezu od izvora do odredista za DEL nacin rada je:
+9 4 
+Udaljenost do odredista je 7

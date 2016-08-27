@@ -1,0 +1,3 @@
+Put kroz mrezu od izvora do odredista za NEW nacin rada je:
+8 7 10 3 
+Udaljenost do odredista je 4

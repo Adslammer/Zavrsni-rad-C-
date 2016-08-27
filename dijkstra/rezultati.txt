@@ -1,0 +1,3 @@
+Udaljenost do odredista je 10
+Put kroz mrezu od izvora do odredista je:
+1 3 4 

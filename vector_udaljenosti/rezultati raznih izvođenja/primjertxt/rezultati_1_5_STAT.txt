@@ -1,0 +1,3 @@
+Put kroz mrezu od izvora do odredista za STAT nacin rada je:
+1 2 5 
+Udaljenost do odredista je 5

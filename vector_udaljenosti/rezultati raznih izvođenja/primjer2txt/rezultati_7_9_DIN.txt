@@ -1,0 +1,3 @@
+Put kroz mrezu od izvora do odredista za DIN nacin rada je:
+7 8 9 
+Udaljenost do odredista je 9
